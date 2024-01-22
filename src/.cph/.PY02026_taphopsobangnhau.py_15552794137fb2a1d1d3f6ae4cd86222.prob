@@ -1,0 +1,1 @@
+{"name":"Local: PY02026_taphopsobangnhau","url":"d:\\lap trinh\\Python\\PY02026_taphopsobangnhau.py","tests":[{"id":1694230766571,"input":"12 18\n1 2 3 4 5 1 2 3 5 4 1 2\n1 1 1 1 1 1 1 1 1 2 3 4 5 5 5 5 5 5","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\lap trinh\\Python\\PY02026_taphopsobangnhau.py","group":"local","local":true}

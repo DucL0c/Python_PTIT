@@ -1,0 +1,80 @@
+{
+	"folders": [
+		{
+			"path": "../../visual/.vscode"
+		},
+		{
+			"path": "../../visual/cpp"
+		},
+		{
+			"path": "../../visual/ctdl & dt"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c",
+			"sti.h": "c",
+			"limits": "c",
+			"typeinfo": "c",
+			"iostream": "cpp",
+			"cmath": "cpp",
+			"ostream": "cpp",
+			"*.tcc": "cpp",
+			"regex": "cpp",
+			"typeindex": "cpp",
+			"complex": "cpp",
+			"cstdlib": "cpp",
+			"iomanip": "cpp",
+			"deque": "cpp",
+			"string": "cpp",
+			"vector": "cpp",
+			"iosfwd": "cpp",
+			"random": "cpp",
+			"istream": "cpp",
+			"bitset": "cpp",
+			"cstring": "cpp",
+			"array": "cpp",
+			"atomic": "cpp",
+			"cctype": "cpp",
+			"cfenv": "cpp",
+			"chrono": "cpp",
+			"cinttypes": "cpp",
+			"clocale": "cpp",
+			"condition_variable": "cpp",
+			"csetjmp": "cpp",
+			"csignal": "cpp",
+			"cstdarg": "cpp",
+			"cstddef": "cpp",
+			"cstdint": "cpp",
+			"cstdio": "cpp",
+			"ctime": "cpp",
+			"cwchar": "cpp",
+			"cwctype": "cpp",
+			"forward_list": "cpp",
+			"list": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp",
+			"exception": "cpp",
+			"fstream": "cpp",
+			"functional": "cpp",
+			"future": "cpp",
+			"initializer_list": "cpp",
+			"mutex": "cpp",
+			"new": "cpp",
+			"numeric": "cpp",
+			"ratio": "cpp",
+			"scoped_allocator": "cpp",
+			"sstream": "cpp",
+			"stdexcept": "cpp",
+			"streambuf": "cpp",
+			"system_error": "cpp",
+			"thread": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"utility": "cpp",
+			"valarray": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": ".vscode",
+		"chatgpt.gpt3.apiKey": "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"
+	}
+}

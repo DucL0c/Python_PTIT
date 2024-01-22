@@ -1,0 +1,1 @@
+{"name":"Local: ICPC0101_thugondayso","url":"d:\\lap trinh\\Python\\ICPC0101_thugondayso.py","tests":[{"id":1693283068102,"input":"5\n2 3 4 5 6","output":"5"},{"id":1693283080394,"input":"10\n1 5 5 8 6 4 3 5 9 3","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\lap trinh\\Python\\ICPC0101_thugondayso.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: PY02027_tachsovasapxep","url":"d:\\lap trinh\\Python\\PY02027_tachsovasapxep.py","tests":[{"id":1696320375638,"input":"3\nA129h\nG07bxjq3\naaaaaaa4aaaa","output":"3\n4\n7\n129"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\lap trinh\\Python\\PY02027_tachsovasapxep.py","group":"local","local":true}

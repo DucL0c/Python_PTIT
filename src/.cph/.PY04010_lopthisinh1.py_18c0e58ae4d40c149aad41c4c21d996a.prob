@@ -1,0 +1,1 @@
+{"name":"Local: PY04010_lopthisinh1","url":"d:\\lap trinh\\Python\\PY04010_lopthisinh1.py","tests":[{"id":1694942752536,"input":"Nguyen Hoang Ha\n11/10/2001\n4.5\n10.0\n5.5","output":"Nguyen Hoang Ha 11/10/2001 20.0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\lap trinh\\Python\\PY04010_lopthisinh1.py","group":"local","local":true}

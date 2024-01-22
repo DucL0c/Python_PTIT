@@ -1,0 +1,13 @@
+# PY01051_tongchusothuannghich.py
+t = int(input())
+def solve(s):
+	sum = 0
+	for i in s:
+		sum += int(i)
+	sum = str(sum)
+	if sum==sum[::-1] and len(sum)>1: print("YES")
+	else: print("NO")
+while t>0:
+	s = input()
+	solve(s)
+	t-=1

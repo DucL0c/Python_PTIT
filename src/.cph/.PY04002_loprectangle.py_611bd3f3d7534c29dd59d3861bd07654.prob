@@ -1,0 +1,1 @@
+{"name":"Local: PY04002_loprectangle","url":"d:\\lap trinh\\Python\\PY04002_loprectangle.py","tests":[{"id":1694487353310,"input":"10 2 RED","output":"24 20 Red"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\lap trinh\\Python\\PY04002_loprectangle.py","group":"local","local":true}

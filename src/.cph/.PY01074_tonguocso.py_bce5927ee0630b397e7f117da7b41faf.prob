@@ -1,0 +1,1 @@
+{"name":"Local: PY01074_tonguocso","url":"d:\\lap trinh\\Python\\PY01074_tonguocso.py","tests":[{"id":1692589790314,"input":"5 \n7\n9 \n10 \n13 \n100","output":"47"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\lap trinh\\Python\\PY01074_tonguocso.py","group":"local","local":true}

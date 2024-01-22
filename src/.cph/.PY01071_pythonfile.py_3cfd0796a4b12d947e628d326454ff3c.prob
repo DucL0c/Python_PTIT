@@ -1,0 +1,1 @@
+{"name":"Local: PY01071_pythonfile","url":"d:\\lap trinh\\Python\\PY01071_pythonfile.py","tests":[{"id":1692783963741,"input":"abc.py","output":"abc.py"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\lap trinh\\Python\\PY01071_pythonfile.py","group":"local","local":true}

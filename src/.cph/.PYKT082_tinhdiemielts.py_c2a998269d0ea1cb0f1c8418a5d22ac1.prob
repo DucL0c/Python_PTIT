@@ -1,0 +1,1 @@
+{"name":"Local: PYKT082_tinhdiemielts","url":"d:\\lap trinh\\Python\\PYKT082_tinhdiemielts.py","tests":[{"id":1696745433826,"input":"2\n15 25 5.0 5.5\n22 32 6.0 6.0","output":"5.5\n6.0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\lap trinh\\Python\\PYKT082_tinhdiemielts.py","group":"local","local":true}

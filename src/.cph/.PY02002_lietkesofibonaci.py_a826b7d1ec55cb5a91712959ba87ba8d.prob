@@ -1,0 +1,1 @@
+{"name":"Local: PY02002_lietkesofibonaci","url":"d:\\lap trinh\\Python\\PY02002_lietkesofibonaci.py","tests":[{"id":1692718285496,"input":"1\n1 10","output":"1 1 2 3 5 8 13 21 34 55"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\lap trinh\\Python\\PY02002_lietkesofibonaci.py","group":"local","local":true}

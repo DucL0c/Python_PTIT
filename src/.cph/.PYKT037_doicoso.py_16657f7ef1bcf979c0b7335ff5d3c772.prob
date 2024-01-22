@@ -1,0 +1,1 @@
+{"name":"Local: PYKT037_doicoso","url":"d:\\lap trinh\\Python\\PYKT037_doicoso.py","tests":[{"id":1700099002743,"input":"3\n10 2\n2021 2\n31 16","output":"1010\n11111100101\n1F"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\lap trinh\\Python\\PYKT037_doicoso.py","group":"local","local":true}

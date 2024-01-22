@@ -1,0 +1,1 @@
+{"name":"Local: PY02050_doanlientiepnhohon","url":"d:\\lap trinh\\Python\\PY02050_doanlientiepnhohon.py","tests":[{"id":1694247661014,"input":"1\n7\n100 80 60 70 60 75 85","output":"1 1 1 2 1 4 6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\lap trinh\\Python\\PY02050_doanlientiepnhohon.py","group":"local","local":true}

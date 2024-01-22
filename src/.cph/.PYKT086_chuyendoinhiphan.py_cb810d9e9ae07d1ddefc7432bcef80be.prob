@@ -1,0 +1,1 @@
+{"name":"Local: PYKT086_chuyendoinhiphan","url":"d:\\lap trinh\\Python\\PYKT086_chuyendoinhiphan.py","tests":[{"id":1700101259300,"input":"2\n8\n10010100010010101\n2\n10010100010010101","output":"1121127\n10010100010010101"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\lap trinh\\Python\\PYKT086_chuyendoinhiphan.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: PY04006_loptriangle2","url":"d:\\lap trinh\\Python\\PY04006_loptriangle2.py","tests":[{"id":1694508218874,"input":"3\n0 0 0 5 0 199\n1 1 1 1 1 1\n0 0 0 5 5 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\lap trinh\\Python\\PY04006_loptriangle2.py","group":"local","local":true}

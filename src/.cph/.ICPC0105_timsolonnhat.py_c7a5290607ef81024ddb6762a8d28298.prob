@@ -1,0 +1,1 @@
+{"name":"Local: ICPC0105_timsolonnhat","url":"d:\\lap trinh\\Python\\ICPC0105_timsolonnhat.py","tests":[{"id":1692720825370,"input":"2\n12ab29cd19\nab123gh456cd","output":"29\n456"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\lap trinh\\Python\\ICPC0105_timsolonnhat.py","group":"local","local":true}
